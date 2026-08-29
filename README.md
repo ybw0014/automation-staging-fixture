@@ -1,1 +1,3 @@
 This public fixture repository validates the guizhan-resources CI automation runner; it builds with `./gradlew shadowJar` on Gradle 8.13 and produces `build/libs/automation-staging-fixture-1.0.0-all.jar`. The wrapper intentionally fails under JDK > 21 so the fixture doubles as a Java-21 gate.
+
+<!-- automation watch trigger 2026-08-29T14:56:03Z -->
