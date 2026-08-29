@@ -1,0 +1,1 @@
+This public fixture repository validates the guizhan-resources CI automation runner; it builds with `./gradlew shadowJar` on Gradle 8.14.5 and produces `build/libs/automation-staging-fixture-1.0.0-all.jar`.
